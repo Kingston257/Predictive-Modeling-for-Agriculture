@@ -32,4 +32,4 @@ According to the provided dataset,
 - Its accuracy score is about 0.28.
 
 ## Credits
-Project and notebook environment were provided by [DataCamp](datacamp.com) 
+Project and notebook environment were provided by [DataCamp](https://www.datacamp.com) 
